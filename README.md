@@ -16,6 +16,7 @@ The model requires three data frames:
 - `df_tweet`: Tweets data.
 - `df_company_tweet`: A mapping between tweets and companies.
 - `df_company`: Company information.
+- `Download Raw Data`: [Google Drive](https://drive.google.com/drive/folders/1INR3u0UW13EGHZ4wsmxeYS3BAo2zC87f)
 
 ## Class `Model`
 The `Model` class contains all the methods needed to preprocess the data, perform sentiment analysis, train LSTM models, and plot results.
